@@ -12,6 +12,8 @@ npx skills add saeedhosan/agent-skills
 
 # Single skill to all agents
 npx skills add saeedhosan/agent-skills -s owasp
+npx skills add saeedhosan/agent-skills -s concise
+npx skills add saeedhosan/agent-skills -s saas-idea
 ```
 
 ## Usage
